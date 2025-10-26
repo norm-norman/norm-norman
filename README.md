@@ -77,6 +77,5 @@ If any of my work sounds interesting and/or you'd like to collaborate on somethi
 #### ☁️ Cloud Services
 [![GCP](https://img.shields.io/badge/-GCP-FD403B?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
