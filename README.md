@@ -1,5 +1,12 @@
-## Hi there 👋
-
+```
+ __    __   _______  __       __        ______      .___________. __    __   _______ .______       _______ 
+|  |  |  | |   ____||  |     |  |      /  __  \     |           ||  |  |  | |   ____||   _  \     |   ____|
+|  |__|  | |  |__   |  |     |  |     |  |  |  |    `---|  |----`|  |__|  | |  |__   |  |_)  |    |  |__   
+|   __   | |   __|  |  |     |  |     |  |  |  |        |  |     |   __   | |   __|  |      /     |   __|  
+|  |  |  | |  |____ |  `----.|  `----.|  `--'  |        |  |     |  |  |  | |  |____ |  |\  \----.|  |____ 
+|__|  |__| |_______||_______||_______| \______/         |__|     |__|  |__| |_______|| _| `._____||_______|
+                                                                                                           
+```
 I'm **Norm**.  
 
 While my professional experience is primarily in **full-stack web development**, I enjoy a variety of types of development in my free time (which is hopefully clear by my list of projects lol).
@@ -25,6 +32,8 @@ In addition, I've recently switched my daily driver to **Linux** and have been e
 
 If any of my work sounds interesting and/or you'd like to collaborate on something, feel free to send me a LinkedIn message → [here](https://www.linkedin.com/in/norm-norman/)!
 
+🌐 Check out my portfolio → [normcodes.dev](https://normcodes.dev)
+
 ---
 
 ### Tech Stack
@@ -40,6 +49,7 @@ If any of my work sounds interesting and/or you'd like to collaborate on somethi
   <img title="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" />
   <img title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
   <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   <img title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
 </p>
 
@@ -66,23 +76,18 @@ If any of my work sounds interesting and/or you'd like to collaborate on somethi
   <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
   <img title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" />
+  <img title="Buildkite" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/buildkite.svg" height="40" />
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" />
-  <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
-  <img title="Buildkite" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/buildkite.svg" height="40" />
 </p>
 
-#### ☁️ Cloud Tech
+#### ☁️ Cloud Services
 <p align="left">
   <img title="Google Cloud Platform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
   <img title="Amazon Web Services (AWS)" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" height="40" />
   <img title="Microsoft Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-  <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-  <img title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" />
   <img title="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" />
+  <img title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" />
 </p>
 
 
