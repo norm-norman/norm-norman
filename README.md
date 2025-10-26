@@ -33,7 +33,7 @@ In addition, I've recently switched my daily driver to **Linux** and have been e
 
 ### Let's Connect
 
-If any of my work sounds interesting and/or you'd like to collaborate on something, feel free to send me a LinkedIn message → [here](https://www.linkedin.com/in/norm-norman/)!
+If any of my work sounds interesting and/or you'd like to collaborate on something, feel free to send me a [LinkedIn message](https://www.linkedin.com/in/norm-norman/)!
 
 ---
 
