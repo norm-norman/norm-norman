@@ -25,7 +25,7 @@ I _might_ eventually put up a fully hosted and managed version for cheap, but on
 
 ### What I'm Learning
 
-Besides that, I've been going back through some old textbooks from college and refamiliarizing myself with **microelectronics** and **embedded systems** in preparation to start trying to build some devices from scratch.
+Besides that, I've been going back through some old textbooks from college and refamiliarizing myself with **microelectronics** and **embedded systems** in preparation to start trying to build some devices from scratch. First up is a fully DIY keyboard that is slowly but surely coming together.
 
 In addition, I've recently switched my daily driver to **Linux** and have been enjoying customizing my system more than I've previously done. This has led me down the neverending rabbit hole of "de-corporatizing" and self hosting as much as possible. Once I have some more time I'm excited to put some focus towards my home network to train my **networking** muscles a bit.
 
