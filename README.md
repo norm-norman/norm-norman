@@ -18,7 +18,7 @@ While my professional experience is primarily in **full-stack web development**,
 
 ### Current Project
 
-My big project is something I'm calling **Collate** - what will eventually be an **open source newsletter organizing app**.  
+My big project is something I'm calling **Nexus** - what will eventually be an **open source calendar visualizer**.  
 I _might_ eventually put up a fully hosted and managed version for cheap, but one step at a time right now.
 
 ---
