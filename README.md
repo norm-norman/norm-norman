@@ -65,6 +65,8 @@ If any of my work sounds interesting and/or you'd like to collaborate on somethi
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
 #### 🧰 DevOps & Tools
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -73,6 +75,8 @@ If any of my work sounds interesting and/or you'd like to collaborate on somethi
 [![Buildkite](https://img.shields.io/badge/-Buildkite-FF642F?style=for-the-badge&logo=buildkite&logoColor=white)](https://buildkite.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![NX](https://img.shields.io/badge/-NX-143055?style=for-the-badge&logo=nx&logoColor=white)](https://nx.dev/)
+[![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)](https://turbo.build/)
 
 #### ☁️ Cloud Services
 [![GCP](https://img.shields.io/badge/-GCP-FD403B?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
